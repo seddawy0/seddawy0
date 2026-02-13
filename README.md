@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**seddawy0/seddawy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ziad El-Sedawy, a Python learner focused on building my path toward Data Analysis, with a long-term goal of becoming an AI Engineer.
 
-Here are some ideas to get you started:
+### Currently Working On
+• Improving problem-solving skills  
+• Learning SQL & Excel for Data Analysis  
+• Building practical Python projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+• Python  
+• SQL  
+• Excel  
+• Git & GitHub  
+• VS Code  
+
+### Contact
+• Email: seddawy0@gmail.com  
+• LinkedIn: https://linkedin.com/in/seddawy0
